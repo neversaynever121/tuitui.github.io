@@ -1080,12 +1080,4 @@ text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
   background-color: #eee;
 }
         /*# sourceMappingURL=style.css.map */
-        body {
-          background: #fff;
-          color: #ffffff;
-          direction: ltr;
-          line-height: 1.34;
-          margin: 0;
-          padding: 0;
-          unicode-bidi: embed;
-      }
+        
